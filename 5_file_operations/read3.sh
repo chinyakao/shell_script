@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# USAGE
+# $ ./read3.sh names.txt
+
 COUNT=1
 
 while IFS='' read -r LINE

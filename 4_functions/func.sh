@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # USAGE
-# ./func.sh
+# $ ./func.sh
 
 Hello() {
     local LNAME=$1

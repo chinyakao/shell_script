@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # USAGE
-# ./user.sh
+# $ ./user.sh
 
 VALID=0
 

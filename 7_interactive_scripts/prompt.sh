@@ -1,8 +1,7 @@
 #!/usr/bin/env bash
 
 # USAGE
-# ./prompt.sh
-# (input the name)
+# $ ./prompt.sh
 
 # The next part is the prompt message the user will see.
 # '-p' prompts the output string without add a new line character.

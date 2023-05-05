@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # USAGE
-# ./guess.sh
+# $ ./guess.sh
 
 COMPUTER=50
 PLAYING=0
