@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# USAGE
+# ./pfunc.sh
+
 function GetFiles() {
     FILES=`ls -1 | sort | head -10`
 }

@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# USAGE
+# ./pipe.sh
+
 # run the 'ls' command and '-1' limit the columns to one
 # 'sort' is built-in command and '-r' is to reverse the sort order
 # 'head -3' is to take the first three results

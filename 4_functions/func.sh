@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# USAGE
+# ./func.sh
+
 Hello() {
     local LNAME=$1
     echo "Hello $LNAME"

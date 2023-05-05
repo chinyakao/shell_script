@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# USAGE
+# $ ./reader.sh names.txt
+
 COUNT=1
 
 # IFS is the internal field separator and tells Linux how to parse the field of the line we are reading
@@ -13,5 +16,3 @@ done < "$1"
 # '<' says use redirection so that we can use the pass file as input
 
 exit 0
-
-# $ ./reader.sh names.txt
