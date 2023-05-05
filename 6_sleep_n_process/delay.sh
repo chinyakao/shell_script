@@ -8,7 +8,7 @@
 # we can put the sleeping script in the background so we can continue to use the shell while it is away
 
 DELAY=$1
-# '-z' make sure the DELAY has a value.
+# '-z' is checking to see if the variable is empty to make sure the DELAY has a value.
 if [ -z $DELAY ]
 then
     echo "You must supply a delay"
